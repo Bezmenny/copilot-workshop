@@ -8,7 +8,7 @@ This workshop is designed to provide you with an in-depth understanding of how A
 
 In this repository, you will find a series of small tasks designed to help you get hands-on experience with AI coding assistants like GitHub Copilot. Each task is designed to showcase a different aspect of how you could use AI coding assistants and provide you with a working knowledge of their capabilities.
 
-To get started, simply fork this repository to your own GitHub account and we can start working on the tasks in the [tasks](/tasks) directory.
+To get started, simply fork this repository to your own GitHub account and we can start working on the tasks.
 
 ## Contributing
 
